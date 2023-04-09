@@ -32,4 +32,4 @@ pnpm test
 
 ### License
 
-This project is under [GPL-3.0 License](https://github.com/mrcn04/asmc/blob/master/LICENSE)
+This project is under [GPL-3.0 License](https://github.com/mrcn04/frontend-react-template/blob/master/LICENSE)
